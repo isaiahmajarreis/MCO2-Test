@@ -107,6 +107,7 @@ describe("testFetchAppointment", () => {
     const appointmentData = {  };
     const queryResult = [[appointmentData], [appointmentData]]; 
 
+    console.log(`Testing ` + appointmentId);
     // Mock mainConnection.query and shardConnection.query methods
     when(mainConnectionMock.query("SELECT * FROM appointments WHERE apptid = ?", [appointmentId]))
       .thenResolve(queryResult);
