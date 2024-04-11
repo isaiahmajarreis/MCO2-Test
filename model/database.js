@@ -303,7 +303,8 @@ function describeCase1() {
   describe("Case #1: Concurrent transactions in two or more nodes are reading the same data item", () => {
     test("Repeatable Read", async () => {
       await testFetchAppointment(mainConnection, shardConnection, mainConnection2, "REPEATABLE READ", appointmentId);
-    });
+        });
+    }
 }
 
 module.exports = db_queries;
