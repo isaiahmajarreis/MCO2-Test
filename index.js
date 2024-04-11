@@ -90,41 +90,4 @@ node1.getConnection()
         process.exit(1); // Exit the process if unable to connect to the database
     });
 */
-
-import { PoolConnection } from "mysql2/promise";
-import { testFetchAppointment } from "tests/case1";
-import { mock, when } from "ts-mockito";
-
-describe("testFetchAppointment", () => {
-  test("should return the same appointment for concurrent transactions", async () => {
-    // Mock PoolConnection objects
-    const mainConnectionMock = mock<PoolConnection>();
-    const shardConnectionMock = mock<PoolConnection>();
-    const mainConnection2Mock = mock<PoolConnection>();
-
-    // Mock query results
-    const appointmentId = 123; 
-    const appointmentData = {  };
-    const queryResult = [[appointmentData], [appointmentData]]; 
-
-    console.log(`Testing ` + appointmentId);
-    // Mock mainConnection.query and shardConnection.query methods
-    when(mainConnectionMock.query("SELECT * FROM appointments WHERE apptid = ?", [appointmentId]))
-      .thenResolve(queryResult);
-    when(shardConnectionMock.query("SELECT * FROM appointments WHERE apptid = ?", [appointmentId]))
-      .thenResolve(queryResult);
-
-    // Invoke the function with mock connections
-    await testFetchAppointment(
-      mainConnectionMock,
-      shardConnectionMock,
-      mainConnection2Mock,
-      "REPEATABLE READ", // Provide the isolation level
-      appointmentId
-    );
-
-    // Expectations
-    // Add your expectations here, such as verifying that the appointments from both connections are the same
-  });
-});
 module.exports = app;
