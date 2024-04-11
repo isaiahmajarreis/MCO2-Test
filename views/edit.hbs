@@ -1,0 +1,82 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Edit Appointment </title>
+</head>
+    <body>
+        <center>
+            <h2>Edit Appointment</h2>   
+            <form action="/updateAppointment" method="post">
+                <label>APPTID</label><br>
+                <input name="apptid" type="number" value="{{apptid}}" readonly><br> <br>
+                <label>PXID</label><br>
+                <input name="pxid" type="text" value="{{pxid}}" readonly><br> <br>
+                <label>QUEUE DATE</label><br>
+                <input name="queuedate" type="date" placeholder="Queue Date" required value="{{formatDate queuedate}}"><br> <br>
+                <label>HOSPITAL NAME</label><br>
+                <input name="hospitalname" type="text" placeholder="Hospital Name" required value="{{hospitalname}}"><br> <br>
+                <label>CITY</label><br>
+                <input name="city" type="text" placeholder="City Name" required value="{{city}}"><br> <br>
+                <label>REGION NAME</label><br>
+                <select name="regionname" title="Regions" disabled>
+                    <option value="National Capital Region (NCR)" {{#ifEqual regionname "National Capital Region (NCR)"}} selected{{/ifEqual}}>National Capital Region (NCR)</option>
+                    <option value="Ilocos Region (I)" {{#ifEqual regionname "Ilocos Region (I)"}} selected{{/ifEqual}}>Ilocos Region (I)</option>
+                    <option value="Caraga (XIII)" {{#ifEqual regionname "Caraga (XIII)"}} selected{{/ifEqual}}>Caraga (XIII)</option>
+                    <option value="Cagayan Valley (II)" {{#ifEqual regionname "Cagayan Valley (II)"}} selected{{/ifEqual}}>Cagayan Valley (II)</option>
+                    <option value="Central Visayas (VII)" {{#ifEqual regionname "Central Visayas (VII)"}} selected{{/ifEqual}}>Central Visayas (VII)</option>
+                    <option value="CALABARZON (IV-A)" {{#ifEqual regionname "CALABARZON (IV-A)"}} selected{{/ifEqual}}>CALABARZON (IV-A)</option>
+                    <option value="Western Visayas (VI)" {{#ifEqual regionname "Western Visayas (VI)"}} selected{{/ifEqual}}>Western Visayas (VI)</option>
+                    <option value="Central Luzon (III)" {{#ifEqual regionname "Central Luzon (III)"}} selected{{/ifEqual}}>Central Luzon (III)</option>
+                    <option value="MIMAROPA (IV-B)" {{#ifEqual regionname "MIMAROPA (IV-B)"}} selected{{/ifEqual}}>MIMAROPA (IV-B)</option>
+                    <option value="Bicol Region (V)" {{#ifEqual regionname "Bicol Region (V)"}} selected{{/ifEqual}}>Bicol Region (V)</option>
+                    <option value="Davao Region (XI)" {{#ifEqual regionname "Davao Region (XI)"}} selected{{/ifEqual}}>Davao Region (XI)</option>
+                    <option value="SOCCSKSARGEN (Cotabato Region) (XII)" {{#ifEqual regionname "SOCCSKSARGEN (Cotabato Region) (XII)"}} selected{{/ifEqual}}>SOCCSKSARGEN (Cotabato Region) (XII)</option>
+                    <option value="Northern Mindanao (X)" {{#ifEqual regionname "Northern Mindanao (X)"}} selected{{/ifEqual}}>Northern Mindanao (X)</option>
+                    <option value="Zamboanga Peninsula (IX)" {{#ifEqual regionname "Zamboanga Peninsula (IX)"}} selected{{/ifEqual}}>Zamboanga Peninsula (IX)</option>
+                    <option value="Eastern Visayas (VIII)" {{#ifEqual regionname "Eastern Visayas (VIII)"}} selected{{/ifEqual}}>Eastern Visayas (VIII)</option>
+                    <option value="Cordillera Administrative Region (CAR)" {{#ifEqual regionname "Cordillera Administrative Region (CAR)"}} selected{{/ifEqual}}>Cordillera Administrative Region (CAR)</option>
+                    <option value="Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)" {{#ifEqual regionname "Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)"}} selected{{/ifEqual}}>Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)</option>
+                </select><br> <br>
+                <label>TYPE</label><br>
+                <select name="type" title="Type" required>
+                    <option value="Consultation" {{#ifEqual type "Consultation"}} selected{{/ifEqual}}>Consultation</option>
+                    <option value="Inpatient" {{#ifEqual type "Inpatient"}} selected{{/ifEqual}}>Inpatient</option>
+                </select><br> <br>
+                <label>STATUS</label><br>
+                <select name="status" title="Status" required>
+                    <option value="Complete" {{#ifEqual status "Complete"}} selected{{/ifEqual}}>Complete</option>
+                    <option value="Queued" {{#ifEqual status "Queued"}} selected{{/ifEqual}}>Queued</option>
+                    <option value="Serving" {{#ifEqual status "Serving"}} selected{{/ifEqual}}>Serving</option>
+                    <option value="Noshow" {{#ifEqual status "Noshow"}} selected{{/ifEqual}}>Noshow</option>
+                    <option value="Cancel" {{#ifEqual status "Cancel"}} selected{{/ifEqual}}>Cancel</option>
+                    <option value="Skip" {{#ifEqual status "Skip"}} selected{{/ifEqual}}>Skip</option>
+                    <option value="Admitted" {{#ifEqual status "Admitted"}} selected{{/ifEqual}}>Admitted</option>
+                </select><br> <br>
+                <select name="regionname" title="Regions" hidden>
+                    <option value="National Capital Region (NCR)" {{#ifEqual regionname "National Capital Region (NCR)"}} selected{{/ifEqual}}>National Capital Region (NCR)</option>
+                    <option value="Ilocos Region (I)" {{#ifEqual regionname "Ilocos Region (I)"}} selected{{/ifEqual}}>Ilocos Region (I)</option>
+                    <option value="Caraga (XIII)" {{#ifEqual regionname "Caraga (XIII)"}} selected{{/ifEqual}}>Caraga (XIII)</option>
+                    <option value="Cagayan Valley (II)" {{#ifEqual regionname "Cagayan Valley (II)"}} selected{{/ifEqual}}>Cagayan Valley (II)</option>
+                    <option value="Central Visayas (VII)" {{#ifEqual regionname "Central Visayas (VII)"}} selected{{/ifEqual}}>Central Visayas (VII)</option>
+                    <option value="CALABARZON (IV-A)" {{#ifEqual regionname "CALABARZON (IV-A)"}} selected{{/ifEqual}}>CALABARZON (IV-A)</option>
+                    <option value="Western Visayas (VI)" {{#ifEqual regionname "Western Visayas (VI)"}} selected{{/ifEqual}}>Western Visayas (VI)</option>
+                    <option value="Central Luzon (III)" {{#ifEqual regionname "Central Luzon (III)"}} selected{{/ifEqual}}>Central Luzon (III)</option>
+                    <option value="MIMAROPA (IV-B)" {{#ifEqual regionname "MIMAROPA (IV-B)"}} selected{{/ifEqual}}>MIMAROPA (IV-B)</option>
+                    <option value="Bicol Region (V)" {{#ifEqual regionname "Bicol Region (V)"}} selected{{/ifEqual}}>Bicol Region (V)</option>
+                    <option value="Davao Region (XI)" {{#ifEqual regionname "Davao Region (XI)"}} selected{{/ifEqual}}>Davao Region (XI)</option>
+                    <option value="SOCCSKSARGEN (Cotabato Region) (XII)" {{#ifEqual regionname "SOCCSKSARGEN (Cotabato Region) (XII)"}} selected{{/ifEqual}}>SOCCSKSARGEN (Cotabato Region) (XII)</option>
+                    <option value="Northern Mindanao (X)" {{#ifEqual regionname "Northern Mindanao (X)"}} selected{{/ifEqual}}>Northern Mindanao (X)</option>
+                    <option value="Zamboanga Peninsula (IX)" {{#ifEqual regionname "Zamboanga Peninsula (IX)"}} selected{{/ifEqual}}>Zamboanga Peninsula (IX)</option>
+                    <option value="Eastern Visayas (VIII)" {{#ifEqual regionname "Eastern Visayas (VIII)"}} selected{{/ifEqual}}>Eastern Visayas (VIII)</option>
+                    <option value="Cordillera Administrative Region (CAR)" {{#ifEqual regionname "Cordillera Administrative Region (CAR)"}} selected{{/ifEqual}}>Cordillera Administrative Region (CAR)</option>
+                    <option value="Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)" {{#ifEqual regionname "Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)"}} selected{{/ifEqual}}>Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)</option>
+                </select><br> <br>
+                <input type="submit">
+            </form>
+        </div>
+        </center>
+        
+    </body>
+</html>

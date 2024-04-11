@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <script type="text/javascript" src="../index.js"></script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Doctor Appointments </title>
+</head>
+
+<body>
+    &nbsp;
+
+    <center>
+    <div class="add-appointment">
+        <h2>Add Doctor Appointment</h2>
+        <form id="form1" method="post" action="/addAppointment">
+            <input name="pxid" type="text" placeholder="Patient ID" required> <br> <br>
+            <input name="queuedate" type="date" placeholder="Queue Date" required><br> <br>
+            <input name="hospitalname" type="text" placeholder="Hospital Name" required><br> <br>
+            <input name="city" type="text" placeholder="City Name" required><br> <br>
+            <select name="regionname" id="regionname" title="Regions" required>
+                <option value="">Select Region</option>
+                <option value="National Capital Region (NCR)">National Capital Region (NCR)</option>
+                <option value="Ilocos Region (I)">Ilocos Region (I)</option>
+                <option value="Caraga (XIII)">Caraga (XIII)</option>
+                <option value="Cagayan Valley (II)">Cagayan Valley (II)</option>
+                <option value="Central Visayas (VII)">Central Visayas (VII)</option>
+                <option value="CALABARZON (IV-A)">CALABARZON (IV-A)</option>
+                <option value="Western Visayas (VI)">Western Visayas (VI)</option>
+                <option value="Central Luzon (III)">Central Luzon (III)</option>
+                <option value="MIMAROPA (IV-B)">MIMAROPA (IV-B)</option>
+                <option value="Bicol Region (V)">Bicol Region (V)</option>
+                <option value="Davao Region (XI)">Davao Region (XI)</option>
+                <option value="SOCCSKSARGEN (Cotabato Region) (XII)">SOCCSKSARGEN (Cotabato Region) (XII)</option>
+                <option value="Northern Mindanao (X)">Northern Mindanao (X)</option>
+                <option value="Zamboanga Peninsula (IX)">Zamboanga Peninsula (IX)</option>
+                <option value="Eastern Visayas (VIII)">Eastern Visayas (VIII)</option>
+                <option value="Cordillera Administrative Region (CAR)">Cordillera Administrative Region (CAR)</option>
+                <option value="Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)">Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)</option>
+            </select><br> <br>
+            <select name="type" title="Type" required>
+                <option value="">Select Type of Consulation</option>
+                <option value="Consultation">Consultation</option>
+                <option value="Inpatient">Inpatient</option>
+            </select>&nbsp;<br><br>
+            <input type="submit">
+    </form>
+    </div>
+    
+<br> <br>
+<div class="list-appointments">
+    <h2>Check Appointments</h2>
+
+    <form action="/filter" method="get">
+            <select name="island" title="Island">
+                <option value="">Select Island</option>
+                <option value="Luzon">Luzon</option>
+                <option value="Visayas">Visayas</option>
+                <option value="Mindanao">Mindanao</option>
+            </select><br><br>
+        <input type="submit">
+    </form>
+    <table border="1">
+        <tr>
+            <th>index</th>
+            <th>apptid</th>
+            <th>pxid</th>
+            <th>queuedate</th>
+            <th>hospitalname</th>
+            <th>city</th>
+            <th>regionname</th>
+            <th>type</th>
+            <th>status</th>
+        </tr>
+
+        {{#each appointments}}
+        <tr>
+            <td>{{@index}}</td>
+            <td>{{this.apptid}}</td>
+            <td>{{this.pxid}}</td>
+            <td>{{this.queuedate}}</td>
+            <td>{{this.hospitalname}}</td>
+            <td>{{this.city}}</td>
+            <td>{{this.regionname}}</td>
+            <td>{{this.type}}</td>
+            <td>{{this.status}}</td>
+            <td>
+                <a href="/editAppointment?id={{apptid}}&regionname={{regionname}}"><button>EDIT</button></a>
+                <a href="/deleteAppointment?id={{apptid}}"><button>DELETE</button></a>
+            </td>
+        </tr>
+        {{/each}}
+    </table>
+</div>
+</center>
+</body>
+</html>

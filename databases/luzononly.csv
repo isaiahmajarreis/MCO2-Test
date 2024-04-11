@@ -1,0 +1,738 @@
+apptid,pxid,queuedate,hospitalname,city,regionname,type,status
+723,8152CBEFE4853D18EAC0E157A05F0BE7,2022-12-18 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+756,33A89616B5C35168B9AE84C3B42A912E,2022-01-07 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Noshow
+757,2CB22E2BC70AD11146030284075616DB,2022-01-14 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+761,A39136CE38FD7A946F25D2546E9CCE92,2022-02-04 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Serving
+762,94BEE80533F599F54AB1F52D9340CD0B,2022-06-24 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Noshow
+763,63FA073259B21EF9390D3DDE5ACC2733,2022-08-12 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Cancel
+764,63FA073259B21EF9390D3DDE5ACC2733,2022-08-19 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Cancel
+766,563297AB819AF50ADCA6815A0BDF4836,2023-01-06 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+767,8933A6C904E48CE61D627422236FE2DF,2023-09-08 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Queued
+768,8933A6C904E48CE61D627422236FE2DF,2023-09-15 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+1988,A0C43DCD3B7193F1CC86C06D4F77686A,2022-02-14 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+1989,81FAC4C693BA581E3982F3CAD2954C1D,2022-02-14 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+1990,0803DBCA56C0BF54CFF8C4CBAA883097,2022-02-14 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+1995,F040C88895AC7145B507BFA2AD7D57B2,2022-02-17 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2229,9040472CF6F45442388EFE59C53120C1,2022-06-14 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2230,D0DE360D05886148DDE7A7490A7AC075,2022-06-14 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2231,7D4CB669748DD0038EA57EA19FABF170,2022-06-16 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2232,37C67C06B9965988063291F3443E54B2,2022-06-16 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2240,2A37198254F751375C4A1A8D9B3209D8,2022-06-24 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2241,A36553E4FBC1A4AE861ACC9DCCEEBB95,2022-06-24 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2242,7D4CB669748DD0038EA57EA19FABF170,2022-06-24 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2243,37C67C06B9965988063291F3443E54B2,2022-06-24 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2244,DF0B829DBC93CEC9DFACEE65CEA5DE57,2022-06-24 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2260,EB38AC1FA80FB00AC67EB0C73534AFE0,2022-07-05 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2261,E732DB40598031E8E344201F209582BC,2022-07-05 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2274,49413E959C949E2F825F7E4A21D83C3F,2022-07-15 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2275,6C20A8072D3C9A600697F7C0035358E4,2022-07-15 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2276,E732DB40598031E8E344201F209582BC,2022-07-15 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2277,BD516015BAD4C22942A15851346B4DA0,2022-07-15 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2282,863AB83CABE673B9FDDA70A61CA61935,2022-07-21 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2283,55F91976A6DB0470BF08A23106AC769B,2022-07-21 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2284,2B8AA1BD632A96DDCE1CC727B75B3BC9,2022-07-21 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2285,4998B08939319528E0146EE179B6C39F,2022-07-21 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2286,0602FCAA728FCFC2A544CF4BC359BA22,2022-07-21 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2287,B91DD18B52EB5699504657F6116D003D,2022-07-21 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2290,10F398D6BAA6671E289BBB55B096CA8F,2022-07-25 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2291,2360874B1D89807B904EB091CEC4E072,2022-07-25 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2292,13566BDD2EFE106E039135D0896B00FA,2022-07-25 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2293,B91DD18B52EB5699504657F6116D003D,2022-07-25 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2294,36CE846AA8BA073752B8B754485BA1C8,2022-07-25 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2295,72E62106720DD6AEE4EF9D4D3570DFAD,2022-07-26 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2296,06E457A30D12A9AAE9D158630DD61AAA,2022-07-26 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2311,12E32C322C946BFF217BA33A5A3B3F29,2022-08-04 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2312,863AB83CABE673B9FDDA70A61CA61935,2022-08-04 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2313,9F23CC687E143E1659DE8AA38F0028D2,2022-08-04 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2314,4998B08939319528E0146EE179B6C39F,2022-08-04 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2315,66395DB8EA440148A11569FF96EE1438,2022-08-05 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2316,38EE198B2714597FCFA195AD1FCB23B5,2022-08-05 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2317,C36C5B3655CEDFEDA508DBA2B4233F51,2022-08-05 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2349,EB38AC1FA80FB00AC67EB0C73534AFE0,2022-08-22 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2350,DA9B2B237DC3DA0D3D0786578D80B5F4,2022-08-22 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2434,A47750908662DB3805C65E56D386B079,2022-10-10 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2435,72E62106720DD6AEE4EF9D4D3570DFAD,2022-10-10 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2436,1543298E9B8ADAB54E45C63230E61EC7,2022-10-10 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2437,68AE58F65FF7CB0CF97F3BF70AAD9724,2022-10-10 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2438,1923666C99E00BA9FCA91AF4E29D460A,2022-10-10 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2468,BDB51437BACA3F86CC4102E50EB958BE,2022-11-01 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2534,D01A4BFC612C5D74CCA01A1B087A5D5D,2022-12-20 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2535,6C20A8072D3C9A600697F7C0035358E4,2022-12-20 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2546,F35EE67F56269F899A37CC13E0612162,2023-01-05 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2613,D01A4BFC612C5D74CCA01A1B087A5D5D,2023-02-16 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2614,63800BC374508B199E11D20AD7824A77,2023-02-16 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2615,1B6EF6AE5C57CEAE34A9916E02FDD5B9,2023-02-16 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2628,A3C21A29DBC8D7EEC40CC94B258C941A,2023-03-03 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2629,37C67C06B9965988063291F3443E54B2,2023-03-03 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2630,0C5594B3E2313CB6F3FC6878B5D76A34,2023-03-03 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2631,D079CB0F4F3D6BFDF3B4DA701A8391E9,2023-03-03 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Noshow
+2632,F35EE67F56269F899A37CC13E0612162,2023-03-03 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2633,68AE58F65FF7CB0CF97F3BF70AAD9724,2023-03-03 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2668,37C67C06B9965988063291F3443E54B2,2023-03-24 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2773,E732DB40598031E8E344201F209582BC,2023-06-15 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2808,AD4BDE3F902CDC5A2AC8E6853513DC0A,2023-07-13 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2809,9F23CC687E143E1659DE8AA38F0028D2,2023-07-13 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2841,BAB177CB357557ECB6BF29AD22F6862A,2023-08-11 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2945,1008655D97FBB63BCD6B616908C2ABD2,2023-11-02 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2946,37C67C06B9965988063291F3443E54B2,2023-11-03 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2947,812148CDC8A5C861AF12D25EFB9DC844,2023-11-03 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+2948,22ADB82F4200BE32E1DADF1AA2F0E953,2023-11-03 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Cancel
+224649,D4F7F1B0D3F8E6FFEDD98ADD332FE6AB,2021-04-28 16:00:00,Our Lady of Lourdes Hospital,Manila,National Capital Region (NCR),Consultation,Queued
+224673,D4F7F1B0D3F8E6FFEDD98ADD332FE6AB,2021-05-27 16:00:00,Our Lady of Lourdes Hospital,Manila,National Capital Region (NCR),Consultation,Queued
+224689,DC9C2FE5A29DAD1826362CA90618186B,2021-06-07 16:00:00,Our Lady of Lourdes Hospital,Manila,National Capital Region (NCR),Consultation,Queued
+224696,ACC20CCD4A91F74E5872C09530B4EFA9,2021-06-10 16:00:00,Our Lady of Lourdes Hospital,Manila,National Capital Region (NCR),Consultation,Queued
+224730,686C7A3AD1CA993328B0F58ADC691118,2021-07-02 16:00:00,Our Lady of Lourdes Hospital,Manila,National Capital Region (NCR),Consultation,Complete
+224805,38C97A354E2C088FF21840EA00F86E7F,2021-09-16 16:00:00,Our Lady of Lourdes Hospital,Manila,National Capital Region (NCR),Consultation,Complete
+224843,8789117C1B00FF50CF0B2AE2BC23FF95,2021-10-15 16:00:00,Our Lady of Lourdes Hospital,Manila,National Capital Region (NCR),Consultation,Complete
+224870,8789117C1B00FF50CF0B2AE2BC23FF95,2021-10-29 16:00:00,Our Lady of Lourdes Hospital,Manila,National Capital Region (NCR),Consultation,Complete
+224886,D3A8EAC0A07C196205FEF3C698669D87,2021-11-05 16:00:00,Our Lady of Lourdes Hospital,Manila,National Capital Region (NCR),Consultation,Complete
+224892,DCF8BA6301A95880D791E8D3FE92603A,2021-11-10 16:00:00,Our Lady of Lourdes Hospital,Manila,National Capital Region (NCR),Consultation,Complete
+225133,8BF694F508C001899FD4D7FA8F71CC8D,2022-04-20 16:00:00,Our Lady of Lourdes Hospital,Manila,National Capital Region (NCR),Consultation,Complete
+225148,F6E423B640818EDED8893F63AD384E3D,2022-04-25 16:00:00,Our Lady of Lourdes Hospital,Manila,National Capital Region (NCR),Consultation,Complete
+225256,1BC9944AD5164A8159C59498BAE150A3,2022-06-17 16:00:00,Our Lady of Lourdes Hospital,Manila,National Capital Region (NCR),Consultation,Complete
+225314,6E519E4813E12F67C4B72EA9E6DF67AF,2022-07-17 16:00:00,Our Lady of Lourdes Hospital,Manila,National Capital Region (NCR),Consultation,Complete
+225336,6E519E4813E12F67C4B72EA9E6DF67AF,2022-07-28 16:00:00,Our Lady of Lourdes Hospital,Manila,National Capital Region (NCR),Consultation,Complete
+225512,7BC3E9E972A693322D5673748A25F85A,2022-11-16 16:00:00,Our Lady of Lourdes Hospital,Manila,National Capital Region (NCR),Consultation,Complete
+225570,50FE71DCBB613AA5BF74710D31DEB03C,2022-12-16 16:00:00,Our Lady of Lourdes Hospital,Manila,National Capital Region (NCR),Consultation,Complete
+225580,C517B2CBAC15DC67D5A8760AF9B510D0,2022-12-26 16:00:00,Our Lady of Lourdes Hospital,Manila,National Capital Region (NCR),Consultation,Complete
+225585,D3A8EAC0A07C196205FEF3C698669D87,2023-01-04 16:00:00,Our Lady of Lourdes Hospital,Manila,National Capital Region (NCR),Consultation,Complete
+225701,F6E423B640818EDED8893F63AD384E3D,2023-03-05 16:00:00,Our Lady of Lourdes Hospital,Manila,National Capital Region (NCR),Consultation,Complete
+242002,3C0612A4419D875BBA2904E59057C52E,2021-04-05 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Queued
+242014,B869A65DF02153479F0DFD5D8D5D0407,2021-07-07 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+242044,AC70028174843E3F1C3844954C9BFAE0,2022-11-04 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+242047,AC70028174843E3F1C3844954C9BFAE0,2023-01-13 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+242048,51039DC3B1FB24D1E16D6A8E85D4B8C4,2023-01-16 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+242050,C12A1E1EB45B5B94FBDD7057E8793E3C,2023-01-27 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+242051,AC70028174843E3F1C3844954C9BFAE0,2023-02-10 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+242056,FDDE61EE553A9D0A4B6885B4DEA780EB,2023-03-17 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+242072,ADB6C375651B8AD12EB6035FEB8BEDA8,2023-07-28 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+242078,AF9424FF6779118BF7C09A2A92E9750E,2023-08-24 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Cancel
+242083,456F6C62A6DDD8E3CD3EB89FD03D269D,2023-10-13 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+242085,141EE16CC73A91531DA4E36D8AA9D12A,2023-10-27 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+242086,51039DC3B1FB24D1E16D6A8E85D4B8C4,2023-10-27 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+270703,51704D83B86588A34855935C45657370,2020-09-28 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270704,A0FB11863BF87B442977BF1A36DDDBE5,2020-09-29 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Serving
+270710,EE9B60A9E8C66D9772E1CF75C7A38E53,2020-10-07 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Queued
+270719,AA186CE29A44C1DC8F9E001735102330,2020-10-26 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Queued
+270720,43BCCF0C9866DEFCA22B51E11033040E,2020-10-26 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270721,A05C722F9E6E25F18BC9302565156475,2020-10-26 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270722,9172086784EA3CB80A0B954D7FAB094C,2020-10-26 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270726,AA186CE29A44C1DC8F9E001735102330,2020-10-28 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270741,59EA4751F71646E02BF486FD1B26662F,2020-11-24 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270742,4AE2DCC599354B735BFB9B9BC0ADFD5B,2020-11-24 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270754,EADFACD889F7F9F60F43D08E5A7E9771,2020-12-08 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Serving
+270755,9A587C521907594FCB9CB1C9077024A5,2020-12-08 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270756,C0C70FA2A6E90EA2BA1DB1862D3E073B,2020-12-08 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Queued
+270759,C31C44E3E8BC99CBCDC04B60363003BD,2020-12-16 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270760,76F6984E9394AC77C3117EEAC460AA6F,2020-12-16 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270761,105421EF568712F6E83E0DA38BBE782F,2020-12-16 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270782,63AC8E0693671A1D1E9BBF53F6CE5E1F,2021-01-20 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270783,2B4D97AF892230C23562EC6FC357E57E,2021-01-20 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270784,BE64BD105262D980D31C7622D5A54195,2021-01-20 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270785,7AC6BCD2F96B353C6A6AAF3FE7269017,2021-01-20 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270786,43AD941BA60C06E61CD3802E70610972,2021-01-25 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270787,F9731FC07B332BAE0282242D0FD472AE,2021-01-25 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Queued
+270788,791D64D834F0D09686ACAF12D8A7976C,2021-01-25 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Queued
+270848,118C01FDAE3CD26301952B7C78137164,2021-03-16 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270849,53D6668C34831DE9771DCBCFA3259E06,2021-03-16 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270851,9BDC12DF4FF573E0C240EB225818A135,2021-03-17 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270852,7AC6BCD2F96B353C6A6AAF3FE7269017,2021-03-17 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270857,16FA0E4F62AB734811BE44BF291CC32E,2021-03-24 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Cancel
+270858,D979E5E01FCB10499B6F681FFF257AA1,2021-03-24 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270859,5C44A7A90EC51BB010A4E0D877F3AFDD,2021-03-24 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270892,930400B09DE51030652EE2C4278077F6,2021-06-23 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270893,6224D5471AE878724DA636C0D461AE83,2021-06-23 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270894,3344B6438F57D1E14B5685BF671284FE,2021-06-23 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270908,B3B3EA1CA470669B39B9096E89578716,2021-07-20 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Noshow
+270909,F169D0F74DF5FDE3181381F12916A8E0,2021-07-20 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270911,B3B3EA1CA470669B39B9096E89578716,2021-07-26 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270912,72A25209B7B46200B55D56E81F0C5EB1,2021-07-26 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270913,CF331F65563C8FCCDA85EB600CC7BA3A,2021-07-26 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Noshow
+270939,EADFACD889F7F9F60F43D08E5A7E9771,2021-10-11 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270940,470FF14FD74750A6DD2257271A2E616C,2021-10-11 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270956,D6C6BA638C54820BCC9805D715A43533,2021-11-22 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270957,E33F9C2090851B2789C55A3A71399920,2021-11-22 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270958,A4958ABB8ED6E8A935E40E285AF1733D,2021-11-22 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Cancel
+270960,99E6C3368E4C75B793DAE15D775FBD33,2021-11-30 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270967,97B272054391D4D825A1C554670AF11D,2021-12-08 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270973,4AE2DCC599354B735BFB9B9BC0ADFD5B,2021-12-14 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270976,58A20AA85A6C9D7DB36EAFA5BD36F87C,2021-12-14 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+270977,886AB07FAA3822EC3074920A6321194E,2021-12-14 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271043,75FBEA4E853981C6EB24DC00BF60DC3C,2022-03-29 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271045,38E2DCB14596013AC55F9D22D4758257,2022-03-29 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271069,3E05716FACED404E0F384C984661027B,2022-04-18 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271088,C93408AD8013281ED94854A00EC1E43A,2022-05-09 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271089,C4C59D24AC3F07B19752B170D7ECB203,2022-05-09 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271093,9AF887C60DD8292A3145517C4E62F158,2022-05-10 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Queued
+271109,C4EB722C8E26044295F2F07015FF596E,2022-05-24 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271153,36F5172B5E7BA3C07AEEFCD7DAC09743,2022-07-03 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Queued
+271154,61A31E182B4636EBAE12016D88CC51B3,2022-07-11 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271155,984A822C71A4F0E3FD59325F5E16A68C,2022-07-16 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271156,A0750C077D0BB87644A40EF84FD73503,2022-07-20 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271167,4D08DCE3245EC8C26EE0FF32721F8E72,2022-08-08 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271168,C6787E9B3710A7678331DB464B2DC773,2022-08-08 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Noshow
+271179,F9E5F42CFAF1CB0E01BAF265D4C5C1BC,2022-08-15 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271181,0B80FF19B97CED703E9950C863F10EB3,2022-08-17 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271205,EE9B60A9E8C66D9772E1CF75C7A38E53,2022-09-06 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271207,3065185262030E0A1F5EF7A3B909A2A4,2022-09-07 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271208,CF9718F1CC332AA1AD9BD6327382EC27,2022-09-07 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271223,C31C44E3E8BC99CBCDC04B60363003BD,2022-09-20 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271328,05D8BE8CA3F2A28739041D72EB2D8654,2022-12-05 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271331,FC80C32167F5FDF168E3625B9774BD24,2022-12-05 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Noshow
+271332,EF185B6605E5FE6E19450020CB5DEEB5,2022-12-06 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Cancel
+271333,A48710D028A66D39AE87F42F07EA535A,2022-12-06 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271343,67E7C1A4C1EBC186FC2244B83A17196C,2022-12-20 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271363,D559207703CBA5C0804B22E0C80353F8,2023-01-17 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271421,2161E8953F2269194D0E724E1C82AC7B,2023-03-01 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271422,FBBD467523366EBF6084C7121157C6F0,2023-03-01 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271424,851615D3500C37BCF392B9928627F3A0,2023-03-05 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Noshow
+271494,EADFACD889F7F9F60F43D08E5A7E9771,2023-05-07 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271497,CE874CC5E9B40694E07B628ACD0DEDB1,2023-05-07 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271498,752EFD5C0F50FC2A88A773C369DBEEB2,2023-05-08 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271499,47AEB57549965185697B507B495BE750,2023-05-08 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271500,3CA685EE0EE48B983CD1FA907FBA898D,2023-05-08 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271505,F8B57CE79B32577638F301BBF2F9D460,2023-05-15 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Noshow
+271509,C31C44E3E8BC99CBCDC04B60363003BD,2023-05-21 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Noshow
+271524,EBD546B2C5B27A4D5FE684C1DF8F4890,2023-05-28 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Cancel
+271590,4E83DBA1839FB9B92822B06B489D35C4,2023-07-24 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271591,F9731FC07B332BAE0282242D0FD472AE,2023-07-24 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Noshow
+271592,90F98B732BB87F0C5F0BDFD492BFFC9A,2023-07-24 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271593,571FA91FCE6511F4013087250F63BE02,2023-07-25 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271595,73ADA8FB3ADE4ADF84CB61F08E841241,2023-07-25 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271604,677CD68789C4DBB6C13D895A2EDA0F63,2023-08-08 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Noshow
+271605,3F5721493A5E6B42DCDC20212C7D4DE7,2023-08-08 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271606,C081CEC4FA2813F699336849C7D1FD07,2023-08-08 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271607,DEFEF4044F63AB1599A286D45486259E,2023-08-08 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271634,16FA0E4F62AB734811BE44BF291CC32E,2023-08-30 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271635,05D8BE8CA3F2A28739041D72EB2D8654,2023-08-30 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271637,5DF54DF00057D52AA45276D6586ABDBC,2023-08-30 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271638,43F2F459826E22DB1755A5BD31682EE3,2023-08-30 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271645,5DF54DF00057D52AA45276D6586ABDBC,2023-09-11 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271646,3563563991240B79142470F5BC8EC368,2023-09-11 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271647,3F8AFBF49D37FC8830D2CD91AB3DE008,2023-09-12 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271648,950135600CFD5CB45FA43EAF71BEE659,2023-09-12 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271649,506D2CC8DF503A23F25E52646D588711,2023-09-12 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271650,4D08DCE3245EC8C26EE0FF32721F8E72,2023-09-12 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Queued
+271686,FE0E4CD85EBEACD09979776D8F809F46,2023-10-08 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Cancel
+271704,4D08DCE3245EC8C26EE0FF32721F8E72,2023-10-30 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Queued
+271750,F202A4B3769B4550B20BC48A5378473F,2023-12-05 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271770,43BCCF0C9866DEFCA22B51E11033040E,2024-01-02 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271771,1678451D701DA09BD124568F796308DD,2024-01-02 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271774,BE6E01CE1D5C3157D7EC99BECBEA4937,2024-01-08 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271776,6A41DE90DF82AD9363A1D86EDECFD04E,2024-01-08 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+271777,D7AAF908A5450D6ECB80164E66023B77,2024-01-08 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273403,9AE5768FBC32487CEC4392995062C807,2020-10-07 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273404,49A0127AC446D7B6418F48EFB10B1540,2020-10-07 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273406,6A5D47382FE1958C156EFF6FC32C7C61,2020-10-19 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273407,9AE5768FBC32487CEC4392995062C807,2020-10-21 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Cancel
+273408,2454FA670579F700369EB9D22B4D48AE,2020-10-26 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273409,CBCAF50DFA27DF5204A9B9E0BA005D57,2020-11-02 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273410,4ED78F792E22EED5BBBE3068F18C3C0A,2020-11-02 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273413,CBCAF50DFA27DF5204A9B9E0BA005D57,2020-11-16 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273415,B12219AA1B2E6B93E2BBBB5445FE3B88,2020-11-18 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273416,0A8EFC8654A7FB16701CC800C95CC24F,2020-11-30 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273417,CBCAF50DFA27DF5204A9B9E0BA005D57,2020-12-02 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Cancel
+273419,1AB04EA692297F7DC75A47A0DC2FD1CE,2020-12-02 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273420,E2B5445B0690FA2582AA8C18D361B450,2020-12-02 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273421,896974D45031C11B335E6127F4C05147,2020-12-09 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273422,A21AB3045BBEE645F56FC859093ECCA5,2020-12-09 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273423,CBCAF50DFA27DF5204A9B9E0BA005D57,2020-12-14 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273424,6A7AD0F83510947C3D443118F154C1EE,2020-12-14 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273425,D481FBF70E3A41B8B97E7DBAF55C8EE7,2020-12-16 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273426,F84301D4B87B5ACBEF722CC1E8C042C1,2020-12-16 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273429,9AE5768FBC32487CEC4392995062C807,2021-01-06 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273430,54A6F38FC02BFE71E43AA67D39D179E7,2021-01-06 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273431,DF2675E2C3654BA69E620C79C8AAD75E,2021-01-13 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273433,56FF38320BA7412CFF82D493F83262F0,2021-01-20 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273434,BE0EEC14F1D6D3D8B9D1B322BB3730C9,2021-02-01 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273436,6C4A0BC947573F629A8B19659FB8F069,2021-02-03 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273437,0A8EFC8654A7FB16701CC800C95CC24F,2021-02-09 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273446,001EDD987893E5DBA475D0D9F237A35F,2021-03-10 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273447,F84301D4B87B5ACBEF722CC1E8C042C1,2021-03-10 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273448,896974D45031C11B335E6127F4C05147,2021-03-17 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273450,A21AB3045BBEE645F56FC859093ECCA5,2021-03-24 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273454,543CA497C8393EAFE8777A7104970677,2021-04-21 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273455,750DD80E395FE12BDDB9FA23FD41E66E,2021-04-26 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273459,543CA497C8393EAFE8777A7104970677,2021-05-24 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273460,4F0DCBEFA00B331A97C0603B7744B523,2021-05-24 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273461,62D1E66E866432A03B6AF60DF13E638A,2021-05-26 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273462,6A7AD0F83510947C3D443118F154C1EE,2021-05-26 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273463,6C4A0BC947573F629A8B19659FB8F069,2021-05-31 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273464,4ED78F792E22EED5BBBE3068F18C3C0A,2021-06-09 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273465,CEFEB676693A72B90460D76B47803A7A,2021-06-14 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273467,E2B5445B0690FA2582AA8C18D361B450,2021-06-14 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273468,D481FBF70E3A41B8B97E7DBAF55C8EE7,2021-06-16 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273469,6C1FFAC78F50D6A3B32E409A8D07B542,2021-06-16 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273471,896974D45031C11B335E6127F4C05147,2021-06-23 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273472,F84301D4B87B5ACBEF722CC1E8C042C1,2021-06-23 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273473,2E8861589247E3F6F2B7FBA16508B9F0,2021-06-28 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273474,4D6465938949729C0C05C53D833887FB,2021-06-28 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273475,F9FDD88D8EB9380C0715D7461963265A,2021-06-30 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273476,B12219AA1B2E6B93E2BBBB5445FE3B88,2021-06-30 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Queued
+273480,543CA497C8393EAFE8777A7104970677,2021-07-21 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273485,1AB04EA692297F7DC75A47A0DC2FD1CE,2021-08-02 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273489,CBCAF50DFA27DF5204A9B9E0BA005D57,2021-09-09 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273490,4ED78F792E22EED5BBBE3068F18C3C0A,2021-09-09 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273492,6A7AD0F83510947C3D443118F154C1EE,2021-09-16 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273498,E89A98F6327538D58AD8DCC8A0614B96,2021-10-14 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273612,CEFEB676693A72B90460D76B47803A7A,2022-10-23 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+273647,CBCAF50DFA27DF5204A9B9E0BA005D57,2023-03-23 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+295340,DE94DBFD93994ADCE517D5878A592284,2020-09-06 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+295348,1CFA42562F596CFC6F9D91211DE96D40,2020-09-09 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+295349,D961109221969DCC2A5A3252A4F778B3,2020-09-13 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+295350,4386E42A5F260456DFED1AD4B5E391FD,2020-09-14 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+295351,F405C2900676B5BBEC2CB06B0DB4E74A,2020-09-14 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+295356,2E1F67042DF190FC1D535E412C832A64,2020-09-17 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+295357,711FD17AA8ADE1EDCA19C766F61AC402,2020-09-20 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+295365,379971E61F2EA7793B3C1E0A8C9D89F8,2020-09-29 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+295372,D961109221969DCC2A5A3252A4F778B3,2020-10-08 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+295373,96B396DD4621FA5BE3FE21316EFAF0E6,2020-10-09 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+295374,0BFDDF73D32DD96893973D4401D6A690,2020-10-09 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+295378,9E304DED14B95F812CA877EBFD353220,2020-10-12 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+295381,4E2A7203C3FD733A6C85D192519D88B4,2020-10-12 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+295389,8AA1A88D49B58CB39FE138EF6070A6B1,2020-10-18 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+295390,7763343279D909301069E9B8839A45D1,2020-10-20 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+295392,BCE2B5CEB849AA61F6B94C9019AF0658,2020-10-21 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+295393,379971E61F2EA7793B3C1E0A8C9D89F8,2020-10-22 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+295394,851768AB273C4D82393AA0A48D5D5397,2020-10-25 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+295407,E3CA9E33188B013CC085A938AB281AE7,2020-11-06 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+295434,D97A73E15653A0A1A5086D645C1B2B94,2020-11-30 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Queued
+295436,379971E61F2EA7793B3C1E0A8C9D89F8,2020-11-30 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+295616,585852A943655E6CE5C695F7E702122A,2021-04-20 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+295617,1BC0EBDB0F019C82C8292272FD2D17FF,2021-04-20 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+295620,D472D0B6F0F991EE8A5C87DBDB5AC07F,2021-04-21 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+295621,7E3487BC5ACCA88773335F39B53C3641,2021-04-22 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+295622,E3CE91B2E1F7D7B09F36D3AE8D55DD21,2021-04-23 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+295623,058EE8270BC232D1FE77CAFC716BDB44,2021-04-23 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+295631,4B3C001ACCFBF67BCF6AC31DEFB71175,2021-05-02 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+295635,EAB56C3AB4D42B328D8C1D3F214C4409,2021-05-03 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+295662,8817DD97966E608D6B7F55C3627B10BC,2021-05-24 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+295663,4386E42A5F260456DFED1AD4B5E391FD,2021-05-24 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+295664,C4422BD7A5973603E2C319EBF90C9CF6,2021-05-24 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+295665,D019B43AEC63CB59485B03D8CC10F938,2021-05-24 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Queued
+295666,4E2A7203C3FD733A6C85D192519D88B4,2021-05-24 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Queued
+295786,4386E42A5F260456DFED1AD4B5E391FD,2021-09-20 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+295900,663808416B0FB35EC55388925C3EAB10,2021-12-21 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Queued
+295936,63901F1507397D88EC3398E58A5230A6,2022-01-19 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+296039,6A20D8C26EBE33F5DD3DB9E2A89867EC,2022-04-04 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Queued
+296040,4386E42A5F260456DFED1AD4B5E391FD,2022-04-04 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+296041,9F7C385235857ABA2D381411B2E19855,2022-04-04 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+296042,1A8FF9107B06F3560EFB71E3763F7AA5,2022-04-04 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Queued
+296107,A5E78E34F7B28CDAA82BE2B99B60D614,2022-06-02 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+296144,1096545FF33B655074D058AEE0CB4B72,2022-07-05 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+296182,2593A9149E3C74077CB187B4F5884344,2022-08-10 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+296205,91AE891DBC3383B9C87C25D7589CE341,2022-08-19 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Noshow
+296215,E3CE91B2E1F7D7B09F36D3AE8D55DD21,2022-08-25 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+296225,436E45AAD67C486B5DC07B6403E0D55C,2022-09-01 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+296226,1F96B1128703000EFF3BE52518A79A1A,2022-09-01 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+296230,EEA7380B1CC996843F3AF6F615F068F3,2022-09-04 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Queued
+296249,EEA7380B1CC996843F3AF6F615F068F3,2022-09-16 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+296300,663808416B0FB35EC55388925C3EAB10,2022-10-28 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+296326,C4422BD7A5973603E2C319EBF90C9CF6,2022-11-16 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Cancel
+296333,F405C2900676B5BBEC2CB06B0DB4E74A,2022-11-20 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+296430,FBCCF5020AE064CD8BB975CAC538AC57,2023-01-30 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Queued
+296547,E8A02E4AD4A70CF3114EE8FD5EB1443D,2023-04-12 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+296610,1128C4BAD13CBA3D2E9023BDD262FAC5,2023-05-16 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+296835,A68A73BBA396C74CA987C7E4E9DF1F7B,2023-10-01 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Complete
+296984,F25137F4AC2DEA1AA00CECC8628619CF,2024-01-12 16:00:00,Makati Medical Center,Makati,National Capital Region (NCR),Consultation,Queued
+297645,B2621253A85C9AE1086291A0B7CF5988,2021-06-03 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Queued
+297646,C1266847074CCC68BB6D4C4372CCC646,2021-06-03 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Queued
+297647,0094E5073F2B11D7C45FDBA7C81FBF60,2021-06-03 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+297648,E04B1DD7CC91DF4718404EF9EA0D3FE6,2021-06-03 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+297726,48BE5CA71768CA687779A46FC1E0DDAB,2021-09-22 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+297783,46B3749A749AF27A460293BF6DA0A061,2021-12-05 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Serving
+297818,12FBAF1EEBF8629F7C7B45C1C51D6864,2022-01-24 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+297819,355FF9E1AA6F7F0F5899EA817B7B13CC,2022-01-24 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+297897,CCED7F142C62E99354BA6673E2384170,2022-04-20 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Queued
+297899,EEA7380B1CC996843F3AF6F615F068F3,2022-04-20 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Queued
+297926,B24AF67CC2938BCADFFFA4D804942FA5,2022-05-27 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+297927,5F5923DDB23F4CE073273D0C323FBD67,2022-06-01 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+297928,BAA8021F14EC3865CE5B0C912E2BD0A4,2022-06-03 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+297929,1EB8D0808E112FD900EF3F6606FC515C,2022-06-03 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+297944,4B4A6AE2E766F3516956864DC07F7163,2022-06-27 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Queued
+297952,117C0265813D10399EC309CA8C08B6C5,2022-07-29 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+297953,A0B83CE92B9C7D1BBCEE1CB8BED2B7A2,2022-07-29 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+297966,F405C2900676B5BBEC2CB06B0DB4E74A,2022-08-12 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+297967,20CEBD0AF3CD5E2271FC843EFB450416,2022-08-12 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+297973,03CEDF9D96E68C63F8362EEBB546EF17,2022-08-19 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+297979,59E652F38BE03D3B384CAC5349FDF713,2022-09-02 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+297980,065523DB03DAF69E9CB1753997CDF43A,2022-09-05 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+297981,26473C5CCA6C8A51F1AAB70DB79AFE37,2022-09-05 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+297983,6991DA853A0DECE149AD8A9D2C23DD61,2022-09-05 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+297985,DFA119DA24163E074990148477CE6CCC,2022-09-07 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+297986,734D8DA91A5D537EA0585FEE3F76E904,2022-09-07 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+297994,26473C5CCA6C8A51F1AAB70DB79AFE37,2022-09-19 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+297995,DEBEB687DCD3925BCD9AD7CDD6E878D3,2022-09-19 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Cancel
+298015,EF82A12D91BC56C9E4281AC3E1F02AE5,2022-10-21 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Queued
+298017,132EB4D0E1359BD9ABC9242035361CA3,2022-10-21 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Queued
+298019,CDA65E5C61244743ACF7F1BA4AB88875,2022-10-21 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Queued
+298021,B9A8DF815DFF8394BC2BBC3BE596774C,2022-10-26 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298022,19A866A1779D2A563C94B81AE0B1E633,2022-10-26 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298023,3DBD0AB970A099EC9E464BCA956BFB4C,2022-10-26 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Noshow
+298026,E28E718F720805DA46800BC1A95FCCAA,2022-11-09 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298030,134D960DB199F133A9E78CB437AB8F76,2022-11-10 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298036,874D17A1F8A7CF93C615F3B730C67ECB,2022-11-16 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298040,874D17A1F8A7CF93C615F3B730C67ECB,2022-11-20 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298041,26473C5CCA6C8A51F1AAB70DB79AFE37,2022-11-20 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298042,3BBA43B486EBE954CC315AAD44EB3A6F,2022-11-20 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298049,4305AE28AB9C2B97C462EA3DBD5E3B0F,2022-11-25 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298050,A0B83CE92B9C7D1BBCEE1CB8BED2B7A2,2022-11-25 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298055,4C7697F14B08AD3B2A11DBF54C2F80F2,2022-12-02 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Queued
+298072,3E404E94521586E4E4DF4B21A093C450,2022-12-16 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298073,B9A8DF815DFF8394BC2BBC3BE596774C,2022-12-18 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Noshow
+298077,AAA68B5EB136B5D82DD44F2F34A98E25,2023-01-04 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298089,EB6151DFF56FD5884929B60F5D39EF57,2023-01-13 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Cancel
+298090,7BE12612A9E28150F88A68BDA1955E9C,2023-01-13 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Cancel
+298096,F79A5E5B0BE08601C1F4554C4681858D,2023-01-19 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298112,EEA7380B1CC996843F3AF6F615F068F3,2023-02-08 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Queued
+298113,7BE12612A9E28150F88A68BDA1955E9C,2023-02-09 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298114,EBF53449E427B3E92FA0EA5AB0C47769,2023-02-09 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298115,3E404E94521586E4E4DF4B21A093C450,2023-02-10 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Noshow
+298116,00C49D8BA09DC0AE499B0B0F96E1E226,2023-02-10 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298117,3056E2E88F254586AC0D92E743CD974A,2023-02-10 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298118,6F8188E2981601BB1E0B46E7A39A3EBD,2023-02-13 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298119,E04B1DD7CC91DF4718404EF9EA0D3FE6,2023-02-13 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298120,82F1F5C9E955214681E5384EA67EA4DF,2023-02-13 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298121,E8A02E4AD4A70CF3114EE8FD5EB1443D,2023-02-14 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298123,26473C5CCA6C8A51F1AAB70DB79AFE37,2023-02-15 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298126,C1266847074CCC68BB6D4C4372CCC646,2023-02-17 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298128,4BC53FDA587C945564212ACF0B23272F,2023-02-17 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298132,D227E5FD0CF18B764B1C9A1246E36F6E,2023-02-23 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298133,C2B94747BBD1CE3761F19FA776A940EB,2023-02-23 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298137,6991DA853A0DECE149AD8A9D2C23DD61,2023-02-26 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298140,E8EDEDE7501D007FF6547ECAAA20B105,2023-03-02 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Cancel
+298142,AF46013929C700CB9C6E181BA10813C3,2023-03-02 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298145,89557EEEE4E64753EE5A2D82E5765ACD,2023-03-06 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298147,40E40E7C460148CF503A3190E9A4DD5E,2023-03-08 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298148,113910EE2F5C90FEDD5D0680FEB0FE3E,2023-03-10 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298153,6F8188E2981601BB1E0B46E7A39A3EBD,2023-03-13 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Queued
+298154,26473C5CCA6C8A51F1AAB70DB79AFE37,2023-03-15 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298155,E579B79ABDE110F086779A2C55FA796D,2023-03-16 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298156,D49333B2BB58B895AEF4D543DA20E149,2023-03-16 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298157,41C87970E31C4048E8FD06744BAA3F8E,2023-03-17 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298159,7CC9DAC03431B251C7A9297D9EB70D97,2023-03-19 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Queued
+298160,19C90A308EA37FF1E826C08F1C11C83A,2023-03-20 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298164,B5AD8F3B82B9A9365D3E86FE1F597FFB,2023-04-03 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Noshow
+298165,89557EEEE4E64753EE5A2D82E5765ACD,2023-04-03 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298167,DC1F3104589E45A4D7C20003823F0A8F,2023-04-03 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298169,0094E5073F2B11D7C45FDBA7C81FBF60,2023-04-12 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298170,379971E61F2EA7793B3C1E0A8C9D89F8,2023-04-12 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298172,C7D39D36D487BF5395FB77D4CF3548B2,2023-04-14 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298173,3E404E94521586E4E4DF4B21A093C450,2023-04-14 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298174,EF0D0F1940C4D091B529B619A30634E8,2023-04-14 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298176,E6DE17D20D24371CD40B8F052D5CA27B,2023-04-17 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298177,A9F0DDC9240533B6963E140DAEC95372,2023-04-17 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298178,DC1F3104589E45A4D7C20003823F0A8F,2023-04-17 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298179,6991DA853A0DECE149AD8A9D2C23DD61,2023-04-17 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298181,C35E888619590C62DB0B4EE86E5EC6E1,2023-04-19 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298182,4BC53FDA587C945564212ACF0B23272F,2023-04-21 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298183,6BF4682F66C00D36DD95FF3DD09115CD,2023-04-24 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298185,5F5923DDB23F4CE073273D0C323FBD67,2023-04-26 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298186,EEA7380B1CC996843F3AF6F615F068F3,2023-04-26 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298187,D49333B2BB58B895AEF4D543DA20E149,2023-04-26 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298188,C35E888619590C62DB0B4EE86E5EC6E1,2023-04-26 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298190,770F6BEB0C41C9BF05CBE473A9FAEE33,2023-04-28 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298192,BA747F318A49F77E6B406BC865C71D15,2023-04-28 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298193,4C7697F14B08AD3B2A11DBF54C2F80F2,2023-04-28 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298194,B713158A1CF9DFDE0DA3599CD4D816DE,2023-05-01 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298199,17ACCCB9807EF83E862D9C545AE8D12D,2023-05-03 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298201,89557EEEE4E64753EE5A2D82E5765ACD,2023-05-03 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298204,2EC1E191F7381816A7B542CA974217FD,2023-05-10 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Cancel
+298205,98DA86E060D3A1110EB5F18776642145,2023-05-10 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298206,C35E888619590C62DB0B4EE86E5EC6E1,2023-05-10 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298207,DEBEB687DCD3925BCD9AD7CDD6E878D3,2023-05-12 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298209,F5B44A593AAF2A18A36EE0142FBC91BD,2023-05-15 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298211,4E42EBFF8DA939A3FF0D192C577009E1,2023-05-16 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298214,B2AF516C43C82545C3C9CB3502AEE25B,2023-05-16 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298216,C7D39D36D487BF5395FB77D4CF3548B2,2023-05-22 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298218,874D17A1F8A7CF93C615F3B730C67ECB,2023-05-24 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298219,84FBB9A60F85C0EA549BCE5C64F2F010,2023-05-24 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298220,4E42EBFF8DA939A3FF0D192C577009E1,2023-05-24 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298222,AAB372F0E65D4810727B2DB0C07DD307,2023-05-26 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298224,C35E888619590C62DB0B4EE86E5EC6E1,2023-05-26 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298225,DEBEB687DCD3925BCD9AD7CDD6E878D3,2023-05-26 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298226,C2B94747BBD1CE3761F19FA776A940EB,2023-05-31 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298230,757425DB59806EF1543F3AAE165CD5C4,2023-06-02 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298231,C35E888619590C62DB0B4EE86E5EC6E1,2023-06-02 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298233,874D17A1F8A7CF93C615F3B730C67ECB,2023-06-04 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298236,4E42EBFF8DA939A3FF0D192C577009E1,2023-06-05 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298237,DEBEB687DCD3925BCD9AD7CDD6E878D3,2023-06-05 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298242,E6DE17D20D24371CD40B8F052D5CA27B,2023-06-21 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298243,C35E888619590C62DB0B4EE86E5EC6E1,2023-06-21 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298244,379971E61F2EA7793B3C1E0A8C9D89F8,2023-06-21 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298249,117C0265813D10399EC309CA8C08B6C5,2023-06-23 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Cancel
+298250,819637766703233F40C8CA7C05BF8DA5,2023-06-23 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Queued
+298251,A0B83CE92B9C7D1BBCEE1CB8BED2B7A2,2023-06-23 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298252,BA747F318A49F77E6B406BC865C71D15,2023-06-23 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298253,4C7697F14B08AD3B2A11DBF54C2F80F2,2023-06-23 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298255,0094E5073F2B11D7C45FDBA7C81FBF60,2023-06-26 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298256,E14485B3F857EC67933E1E8A3A56C21C,2023-06-26 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298257,C2B94747BBD1CE3761F19FA776A940EB,2023-06-26 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298258,C35E888619590C62DB0B4EE86E5EC6E1,2023-06-28 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298271,3056E2E88F254586AC0D92E743CD974A,2023-07-23 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298273,5F139F1F9D6CC354048865E45ACBE179,2023-07-24 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Cancel
+298274,124B45B6C56CFCC558B7868A6C7B420A,2023-07-25 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298276,4E42EBFF8DA939A3FF0D192C577009E1,2023-07-26 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298277,5F139F1F9D6CC354048865E45ACBE179,2023-07-26 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298278,6F8188E2981601BB1E0B46E7A39A3EBD,2023-07-30 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298280,DA26FDF7D027B3159E41508257E5B22D,2023-08-01 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298282,0096101F0D1317D72321916B4FDB6361,2023-08-06 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298284,4E42EBFF8DA939A3FF0D192C577009E1,2023-08-06 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298286,BAA8021F14EC3865CE5B0C912E2BD0A4,2023-08-07 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298287,EEA7380B1CC996843F3AF6F615F068F3,2023-08-07 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298290,18BDD1230956DEA3F4B74712DB2C7C61,2023-08-07 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298291,379971E61F2EA7793B3C1E0A8C9D89F8,2023-08-07 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298297,5F5923DDB23F4CE073273D0C323FBD67,2023-08-11 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298300,4E42EBFF8DA939A3FF0D192C577009E1,2023-08-16 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298303,EF0D0F1940C4D091B529B619A30634E8,2023-08-18 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298304,BA747F318A49F77E6B406BC865C71D15,2023-08-18 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298306,4C7697F14B08AD3B2A11DBF54C2F80F2,2023-08-18 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298317,E03943E5E63A25CD4D85402D15FE354B,2023-09-08 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298328,ADE491363A03F751F756AE7FFD80017A,2023-09-22 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298329,117C0265813D10399EC309CA8C08B6C5,2023-09-22 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298330,3056E2E88F254586AC0D92E743CD974A,2023-09-22 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298332,A68A73BBA396C74CA987C7E4E9DF1F7B,2023-09-27 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298334,26473C5CCA6C8A51F1AAB70DB79AFE37,2023-09-27 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298337,6B1C97026EF935F6D76E5DABD80D0DF2,2023-09-29 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298344,B2AF516C43C82545C3C9CB3502AEE25B,2023-10-02 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298352,4E42EBFF8DA939A3FF0D192C577009E1,2023-10-09 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298356,CCED7F142C62E99354BA6673E2384170,2023-10-12 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298358,46B3749A749AF27A460293BF6DA0A061,2023-10-13 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Noshow
+298359,776B2E700A6B442D6CF7B346BE5D078B,2023-10-13 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298360,19DB64AEB2550ACC0133C80DC5BB5ED3,2023-10-13 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298361,E764C659AB03EAA0A67A7D55C0FC247D,2023-10-13 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298362,29E7C0E5A505CC6E7A7EE3C4DB413AC5,2023-10-13 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298368,3E404E94521586E4E4DF4B21A093C450,2023-10-19 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298369,26473C5CCA6C8A51F1AAB70DB79AFE37,2023-10-19 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298370,4C7697F14B08AD3B2A11DBF54C2F80F2,2023-10-19 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298371,E03943E5E63A25CD4D85402D15FE354B,2023-10-20 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Noshow
+298375,776B2E700A6B442D6CF7B346BE5D078B,2023-10-27 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Cancel
+298381,0487A2947FF529301D5A9B6B1E9DA27E,2023-11-02 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298382,FF992B1492EAF496666B9693FA12111D,2023-11-02 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298383,E6D0EA7E7DA4D51D26FB20060800318F,2023-11-02 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298391,957BA3998DB06E9FB6C23326CA96A737,2023-11-07 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298392,46B3749A749AF27A460293BF6DA0A061,2023-11-09 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298393,26473C5CCA6C8A51F1AAB70DB79AFE37,2023-11-09 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298407,B24AF67CC2938BCADFFFA4D804942FA5,2023-11-24 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298408,4E42EBFF8DA939A3FF0D192C577009E1,2023-11-24 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298409,19DB64AEB2550ACC0133C80DC5BB5ED3,2023-11-24 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298410,A0B83CE92B9C7D1BBCEE1CB8BED2B7A2,2023-11-24 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298411,BA747F318A49F77E6B406BC865C71D15,2023-11-24 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298412,D9CC0109186735AF98BEE9E5E6B19E84,2023-11-24 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Noshow
+298413,29E7C0E5A505CC6E7A7EE3C4DB413AC5,2023-11-24 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298415,3BBA43B486EBE954CC315AAD44EB3A6F,2023-11-27 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298417,0096101F0D1317D72321916B4FDB6361,2023-11-30 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298418,6991DA853A0DECE149AD8A9D2C23DD61,2023-11-30 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298419,DF51A0AC886652DB13D89341F9B7B0A2,2023-12-01 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298425,0FDBE250DC6450A1A6EF49CC666D56E7,2023-12-14 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298426,819637766703233F40C8CA7C05BF8DA5,2023-12-14 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298427,DEBEB687DCD3925BCD9AD7CDD6E878D3,2023-12-14 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298432,E764C659AB03EAA0A67A7D55C0FC247D,2023-12-19 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298433,6DA3D6DCB51B5369783019B8EF9CBFD7,2023-12-20 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298438,E10433EAF7F0589380AA81B1285BA996,2024-01-01 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298448,EEA7380B1CC996843F3AF6F615F068F3,2024-01-05 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298449,19DB64AEB2550ACC0133C80DC5BB5ED3,2024-01-05 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298450,DEBEB687DCD3925BCD9AD7CDD6E878D3,2024-01-05 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298451,29E7C0E5A505CC6E7A7EE3C4DB413AC5,2024-01-05 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298459,6B1C97026EF935F6D76E5DABD80D0DF2,2024-01-12 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298463,19C52D38E8B6A364E981AE42C63A0980,2024-01-17 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298464,B24AF67CC2938BCADFFFA4D804942FA5,2024-01-19 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298466,379971E61F2EA7793B3C1E0A8C9D89F8,2024-01-19 16:00:00,St. Luke's Medical Center-Global City,Taguig,National Capital Region (NCR),Consultation,Complete
+298472,D518A32DAC02926225E9471C72C78712,2023-06-09 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298473,BF1C4B403D94A4AC42C4D8AFBD166082,2023-06-09 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298474,BA71A688543746453E6773C87010FDC4,2023-06-12 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298479,17B8D23DC6B4794D40D4015EFB852022,2023-07-02 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298490,27C291EB138A8F801342573CA99FAEA3,2023-08-14 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298492,460F25DD85747B8C78CA88C31DD17047,2023-08-21 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298493,ADD4337D2641ACCEF0D8632B25DDAE04,2023-08-21 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298494,864B3277B67C83F8EE53E375795B22DE,2023-08-21 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298495,99404A75F116D641ABBD34958734EAD0,2023-08-21 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298496,8997248204E5067BCA997A9DA49E08B4,2023-08-21 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298498,A3B747815CD8AD3A2C92759F1C6F1A9B,2023-08-21 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298499,68CE0E2E2565677FBA1F7ABD3377ABED,2023-08-22 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298501,2135AD5F82A380ADDF8A5F80EEB64ABB,2023-08-22 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298502,C02C064C05C323D34AD4DC7D5A048D13,2023-08-22 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298504,B39DA06CD54FB7568DCC7989CE678BAC,2023-08-24 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298505,F3F1F6A76D76EAB19AFA64BD2CFE00BA,2023-08-24 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298520,8CF2A703E72267741229627D797FF0C2,2023-09-04 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298521,DC9D1C6D8D05F0EF9C81E0A38DD37107,2023-09-04 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298522,E1B3A6E6864982BB30F7BCD496B301E7,2023-09-04 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298523,18B728AE4D51DBBFB425C439B56BD4D5,2023-09-05 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298525,24C49E15DAC0A0531C46A23B84D45238,2023-09-05 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298526,7356C15371F6129B35AF24428F24DF3C,2023-09-05 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298527,8CD1CDB3F0370EFDD933CA8D82749F13,2023-09-05 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298528,F0987CF2E44472F3F418E4AE82D59044,2023-09-05 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298529,04A15CF221C23E94CDABE4884A912626,2023-09-07 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298530,86B85E895782AD68058F15F5C464F0A9,2023-09-07 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298533,6CC44E5B1577DBB4EAC93F3981B98285,2023-09-07 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298535,585B2A83603EB9B68913E27A6F451920,2023-09-08 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298536,D2A784E7CDE73442B29FE2E22FC05BBF,2023-09-08 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298537,5567D95EBEABB9AF1250C0CB6D6154BB,2023-09-08 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298544,C51114D4BD8FF529615425459D582C42,2023-09-11 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298545,54E1266A5FCB2F01ED02D60CC967F6A5,2023-09-12 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298546,585B2A83603EB9B68913E27A6F451920,2023-09-14 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298547,C51114D4BD8FF529615425459D582C42,2023-09-14 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298548,E0448B6CB8E2C93387E6F15467842528,2023-09-14 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298549,C02C064C05C323D34AD4DC7D5A048D13,2023-09-14 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298550,38174DBAC3F5350EA59928C76A701B5C,2023-09-14 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298551,F8DC09D22D5B429AAF49923986FDE669,2023-09-14 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298552,C51114D4BD8FF529615425459D582C42,2023-09-15 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298553,DB06E7EF0BE7C2205920508CFD645E7F,2023-09-15 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298559,98D6288275057F24BB542283CDD7DAD3,2023-09-18 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298560,1F37DDC9AD966790D2C3B76188D6655C,2023-09-18 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298561,1C109AD4DB22853354F230146F1DBF4F,2023-09-19 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298566,DB06E7EF0BE7C2205920508CFD645E7F,2023-09-22 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298567,9A067BE5D71CB39FB0A889EAE8AACDCC,2023-09-22 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298568,B5624CBEB57C73FEC52C9F9E21A1F6E7,2023-09-22 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298569,482A19E557544CC27424382ADC167C81,2023-09-22 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298573,09F372D15DF9DB8801113F32FFC87599,2023-09-26 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298574,24DE985B91FF6BB385735AED9C7190A7,2023-09-26 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298575,54E1266A5FCB2F01ED02D60CC967F6A5,2023-09-26 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298577,D5B61C7A727C74AD9238420E760E57A6,2023-09-26 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298578,99404A75F116D641ABBD34958734EAD0,2023-09-26 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298579,3FBD21DE636E4805820E2F27B8F8EE47,2023-09-28 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298580,5E4A0E99488A617DA8C2B1A11CBC0E91,2023-09-28 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298582,54E1266A5FCB2F01ED02D60CC967F6A5,2023-09-28 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298583,E759490B03D52F19A715577674023B4E,2023-09-28 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298584,1C109AD4DB22853354F230146F1DBF4F,2023-09-28 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298585,F8DC09D22D5B429AAF49923986FDE669,2023-09-28 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298586,4BDD7B91B444103F7F36019697B79C87,2023-09-29 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298587,8CCAEF5A4038E1FE9F0D450B2DB671F3,2023-09-29 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298588,1E2B15DB7EC288AD360ECFF51A0CEE69,2023-09-29 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298592,BF22C628E1F0C9A6F0183DFB4012F739,2023-09-29 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298661,DE7DFC3E364CBEF96D4B8258F6B0C711,2023-10-22 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298665,6550C8FB5DFC7C7414DB45590C7840DE,2023-11-02 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298668,A2D7CE560B6D4EB96D5952142E8A08E8,2023-11-03 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298670,7EB7209C094CEC88438E61F715E6133A,2023-11-03 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298672,1C109AD4DB22853354F230146F1DBF4F,2023-11-03 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298673,7492C3475D93B415DD9025A2FAA94542,2023-11-03 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298674,6F4629777C33B6921F5B9D85D6D998C4,2023-11-03 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298675,BF198376E8089598C49E55AA360EA756,2023-11-05 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298678,0719B4DC4F95D1B1303B5EB8BBDA73EF,2023-11-05 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298689,A2D7CE560B6D4EB96D5952142E8A08E8,2023-11-09 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298690,CAA017F684FE5990167026C0BEAE8BE1,2023-11-09 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298693,BAD57169BF6C9749C52AA4581FBBFBD1,2023-11-09 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298694,6F4629777C33B6921F5B9D85D6D998C4,2023-11-09 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298695,F44E2A078D1D54A4F87EBCF90F23380A,2023-11-10 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298696,3ACCC67768CDC976C913DB6F0D8C45FE,2023-11-10 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298697,9A68F0766DA79C2E88613530D784817B,2023-11-10 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298698,A80FCDA8776A3D023B505DB9378112F3,2023-11-10 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298699,84A11F12715929F297C5CE75FC30ED78,2023-11-10 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298701,5EB2C76462B327FF65562A26C9C34FF8,2023-11-10 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298702,C119840A23DDC3843D5445DA45792D83,2023-11-10 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298703,C9CDF659AC69A491643AF9689A9813EA,2023-11-10 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298704,013E70C1FD97B4007F73D6AEA93D3D85,2023-11-10 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298705,6C99232FF9F529FA84E7D45AD880DA99,2023-11-10 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298706,6F4629777C33B6921F5B9D85D6D998C4,2023-11-10 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298715,9B7989B8AA9E87055557ED15A985FD26,2023-11-14 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298716,938BC439C7AD93AB1F7EBC65FDD82FA0,2023-11-14 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298718,4C6932448BD11BC905827AB42587349B,2023-11-14 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298719,CDC49289D2B2F9E858725F428BFCA959,2023-11-14 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298720,115ADCF2A89D1542AE1DAFB3BCE48FC0,2023-11-14 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298721,D1A6284EB2E3FC89031E11BD22E43689,2023-11-14 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298722,3FBD21DE636E4805820E2F27B8F8EE47,2023-11-16 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298723,04DAAF4B5A70D09D9C5EE52B139052ED,2023-11-16 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298725,63C2F99931E7FCC715D0C87079F00B1E,2023-11-16 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298727,439AD13DF6B0D27754F9B787CEDD1E9E,2023-11-16 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298731,DA27AB546D59AB3CB641468FC5466E37,2023-11-17 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298734,AFBCEDDA1B8355F933E2E202B7723AA3,2023-11-19 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298738,7519994F23BFC44F63BA369272BAB6A4,2023-11-19 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298740,27C291EB138A8F801342573CA99FAEA3,2023-11-19 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298741,24DE985B91FF6BB385735AED9C7190A7,2023-11-21 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298742,63C2F99931E7FCC715D0C87079F00B1E,2023-11-21 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298743,7BDFC8AA6929362D1E8D5171A4BF4527,2023-11-21 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298744,BB272FC01E2ABFC2002776F6DEE94BD0,2023-11-21 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298745,37032C9E672F60150AF01F7C827C1211,2023-11-21 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298774,557E7695E0D1079F1282F746830E0981,2023-12-10 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298775,3D3ED72801B8B654220120AD0E400A7A,2023-12-10 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298776,F431CF7BDA89CC05868EEF8243C8CADC,2023-12-10 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298778,F29FD90520E2E50C2E0D6DB1E99838E3,2023-12-12 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298779,8ED8C6E9B41406088CF94747B5B0F47D,2023-12-12 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298780,A0EBE68DD63C83A46B32908DC0C506C0,2023-12-12 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298781,D518A32DAC02926225E9471C72C78712,2023-12-13 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298782,482A19E557544CC27424382ADC167C81,2023-12-13 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298786,538C85B5FC7F1AD59C0F0EB114E2551D,2023-12-15 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298787,EDA48B40D81DBF937272067F021D7618,2023-12-15 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Cancel
+298788,AF116E7C4D4760A2A5F65F180B873825,2023-12-15 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298789,08CB79458026883862278924618EB391,2023-12-15 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298790,F8FA51AFA5E069553A33CB6436996BAA,2023-12-15 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298812,F29FD90520E2E50C2E0D6DB1E99838E3,2024-01-07 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298814,EE4110EB64D798ABF48545F4D0AEA1AE,2024-01-07 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298815,87256C341CAD934728736A82BD27DEA2,2024-01-07 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298816,AF34D170C61C14F538C08D0F350619F4,2024-01-09 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298817,0D1C39572E781A975403704DAE10DBC8,2024-01-09 16:00:00,Capitol Medical Center,Quezon City,National Capital Region (NCR),Consultation,Complete
+298863,0930C318EC31AEA113BC5F7DDA803281,2023-09-03 16:00:00,ManilaMed - Medical Center Manila,Manila,National Capital Region (NCR),Consultation,Complete
+298937,7B8D3ED345FE4F388B48DC8A191D19E8,2023-10-03 16:00:00,ManilaMed - Medical Center Manila,Manila,National Capital Region (NCR),Consultation,Complete
+298938,DFAE221094D22C02D708231B8464EB78,2023-10-03 16:00:00,ManilaMed - Medical Center Manila,Manila,National Capital Region (NCR),Consultation,Complete
+298939,BBF51FA6839E6286E451181C732946FB,2023-10-03 16:00:00,ManilaMed - Medical Center Manila,Manila,National Capital Region (NCR),Consultation,Complete
+298940,7454EB37698B5C4EF498D6734E53BA24,2023-10-03 16:00:00,ManilaMed - Medical Center Manila,Manila,National Capital Region (NCR),Consultation,Queued
+306334,A5B3641788A6FCBE5915A37DEDDB9700,2021-02-07 16:00:00,Lorma Medical Center,San Fernando City,Ilocos Region (I),Consultation,Queued
+306335,A5B3641788A6FCBE5915A37DEDDB9700,2021-02-14 16:00:00,Lorma Medical Center,San Fernando City,Ilocos Region (I),Consultation,Complete
+306640,D0654C24743973337FB8F202DADC0165,2023-02-02 16:00:00,Asian Hospital and Medical Center,Muntinlupa,National Capital Region (NCR),Consultation,Complete
+319023,AF1C0491D7D2DF6411833CBDF1C4D321,2022-04-02 16:00:00,TMC Clinic @ Robinsons Magnolia,Quezon City,National Capital Region (NCR),Consultation,Complete
+319024,10F90FA4C59EF82B1DD4C492E46D724A,2022-04-02 16:00:00,TMC Clinic @ Robinsons Magnolia,Quezon City,National Capital Region (NCR),Consultation,Complete
+319025,D02C6347B484F73A82649887D414AEFF,2022-04-02 16:00:00,TMC Clinic @ Robinsons Magnolia,Quezon City,National Capital Region (NCR),Consultation,Complete
+319026,82DEA2CFC53CCCC6B43574E01CC07F5C,2022-04-02 16:00:00,TMC Clinic @ Robinsons Magnolia,Quezon City,National Capital Region (NCR),Consultation,Complete
+319029,FECADDC6A019CB23ED37E91B050B3F62,2022-05-21 16:00:00,TMC Clinic @ Robinsons Magnolia,Quezon City,National Capital Region (NCR),Consultation,Complete
+319030,48FE00BCB0450A96C99E815AB7819B01,2022-05-21 16:00:00,TMC Clinic @ Robinsons Magnolia,Quezon City,National Capital Region (NCR),Consultation,Complete
+319031,AF1C0491D7D2DF6411833CBDF1C4D321,2022-05-21 16:00:00,TMC Clinic @ Robinsons Magnolia,Quezon City,National Capital Region (NCR),Consultation,Cancel
+319032,3AE10B5F58581973BDD0D74538083C13,2022-05-21 16:00:00,TMC Clinic @ Robinsons Magnolia,Quezon City,National Capital Region (NCR),Consultation,Cancel
+319033,10F90FA4C59EF82B1DD4C492E46D724A,2022-05-21 16:00:00,TMC Clinic @ Robinsons Magnolia,Quezon City,National Capital Region (NCR),Consultation,Cancel
+319038,475EF1DD9013B485C22AE50C2A7AB72B,2022-07-23 16:00:00,TMC Clinic @ Robinsons Magnolia,Quezon City,National Capital Region (NCR),Consultation,Queued
+319051,DFB1D9A28FFBD59932A5598F6061FAC7,2023-09-09 16:00:00,TMC Clinic @ Robinsons Magnolia,Quezon City,National Capital Region (NCR),Consultation,Queued
+319056,A9DE929DD517339E3109117C119613B3,2023-11-11 16:00:00,TMC Clinic @ Robinsons Magnolia,Quezon City,National Capital Region (NCR),Consultation,Queued
+319062,39A683E221BB0CE35E7C3D16E07448B3,2024-01-06 16:00:00,TMC Clinic @ Robinsons Magnolia,Quezon City,National Capital Region (NCR),Consultation,Queued
+319064,475EF1DD9013B485C22AE50C2A7AB72B,2024-01-06 16:00:00,TMC Clinic @ Robinsons Magnolia,Quezon City,National Capital Region (NCR),Consultation,Queued
+319066,388F61200026192F13E9555DD5927379,2024-01-06 16:00:00,TMC Clinic @ Robinsons Magnolia,Quezon City,National Capital Region (NCR),Consultation,Queued
+319451,5A88476835A8EC5AF7FCA6E7042BC28E,2022-03-18 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+319452,CA2EED852E2F490C55D44E8884A641B8,2022-03-18 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+319461,ED23282548D3305A4624FDA36ADAA1DF,2022-04-30 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+319462,48F7E95BEEF4C54CC1D1B79B33F3721C,2022-04-30 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+319463,087B59C06F583E92DDBD1CAA30BDC11A,2022-04-30 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+319464,BCBA308D2979BDEEFED53D3664F2DA3E,2022-05-01 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+319465,CA699692E5832D3D031B6C30191AE99F,2022-05-01 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+319469,CB142F2B15BF7AE2E0C7232929501DE5,2022-06-17 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+319470,48F7E95BEEF4C54CC1D1B79B33F3721C,2022-06-17 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+319471,087B59C06F583E92DDBD1CAA30BDC11A,2022-06-17 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+319473,48F7E95BEEF4C54CC1D1B79B33F3721C,2022-08-12 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+319474,087B59C06F583E92DDBD1CAA30BDC11A,2022-08-12 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+319475,ED23282548D3305A4624FDA36ADAA1DF,2022-08-19 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Cancel
+319478,FD3025BB210EFB4CF5A5C2958B2E9BD8,2022-08-23 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Cancel
+319480,FD3025BB210EFB4CF5A5C2958B2E9BD8,2022-08-30 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Cancel
+319491,A9DE929DD517339E3109117C119613B3,2022-09-30 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+319493,FD3025BB210EFB4CF5A5C2958B2E9BD8,2022-11-25 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Cancel
+319495,FD3025BB210EFB4CF5A5C2958B2E9BD8,2022-12-02 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Cancel
+319500,A9DE929DD517339E3109117C119613B3,2022-12-16 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+319548,F36F1A9D0391A35B92E8B0DAE8343DE3,2023-08-15 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Cancel
+319560,48F7E95BEEF4C54CC1D1B79B33F3721C,2023-09-15 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+319561,087B59C06F583E92DDBD1CAA30BDC11A,2023-09-15 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Complete
+319580,48F7E95BEEF4C54CC1D1B79B33F3721C,2024-01-05 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Queued
+319581,087B59C06F583E92DDBD1CAA30BDC11A,2024-01-05 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Queued
+319583,83BEEA69A884E7AA9687D9C895B7FDBC,2024-01-09 16:00:00,The Medical City,Pasig,National Capital Region (NCR),Consultation,Queued
+320017,CDBF0BA4EE546CE7A138EC570E4D13E0,2022-03-25 16:00:00,"Sacred Heart Hospital of Malolos, Inc.",Malolos City,Central Luzon (III),Consultation,Complete
+320019,1939678D5A3E55496A0B509DFD841A63,2022-04-01 16:00:00,"Sacred Heart Hospital of Malolos, Inc.",Malolos City,Central Luzon (III),Consultation,Complete
+320021,A26009D6EE1FF309571BC52D9A437119,2022-05-06 16:00:00,"Sacred Heart Hospital of Malolos, Inc.",Malolos City,Central Luzon (III),Consultation,Noshow
+320022,4627B8F0D33197415A6AFB8580D87695,2022-05-06 16:00:00,"Sacred Heart Hospital of Malolos, Inc.",Malolos City,Central Luzon (III),Consultation,Complete
+320023,0E94FC701D71B33AFBD6B22DC5AA8E73,2022-05-13 16:00:00,"Sacred Heart Hospital of Malolos, Inc.",Malolos City,Central Luzon (III),Consultation,Complete
+320024,A96658D4C5867D66AE67A58165D2AEEA,2022-05-13 16:00:00,"Sacred Heart Hospital of Malolos, Inc.",Malolos City,Central Luzon (III),Consultation,Complete
+320025,19D06E8663D8F51EE241A07DF52FB1E0,2022-05-20 16:00:00,"Sacred Heart Hospital of Malolos, Inc.",Malolos City,Central Luzon (III),Consultation,Complete
+320026,73AA42D0F2FF23AD15BC690E904C9A79,2022-05-20 16:00:00,"Sacred Heart Hospital of Malolos, Inc.",Malolos City,Central Luzon (III),Consultation,Complete
+320027,6917265CAC2E611F2EF4B19871D8B783,2022-05-20 16:00:00,"Sacred Heart Hospital of Malolos, Inc.",Malolos City,Central Luzon (III),Consultation,Complete
+320028,17EDC7B9AC4915F9804B0599AD731D61,2022-05-27 16:00:00,"Sacred Heart Hospital of Malolos, Inc.",Malolos City,Central Luzon (III),Consultation,Complete
+320030,2E5110B3E80894590D40EB4E15F0B43F,2022-06-03 16:00:00,"Sacred Heart Hospital of Malolos, Inc.",Malolos City,Central Luzon (III),Consultation,Cancel
+320031,5DC465F40E65A24BB9F8B14F0B1AAED3,2022-06-03 16:00:00,"Sacred Heart Hospital of Malolos, Inc.",Malolos City,Central Luzon (III),Consultation,Complete
+320032,7BF5E7288BB36CA491E6ADDD8F0C6A4D,2022-06-03 16:00:00,"Sacred Heart Hospital of Malolos, Inc.",Malolos City,Central Luzon (III),Consultation,Complete
+320033,0B106682AC403B83F8C40C9DBA5F92A2,2022-06-10 16:00:00,"Sacred Heart Hospital of Malolos, Inc.",Malolos City,Central Luzon (III),Consultation,Complete
+320034,565D93BA5868D384B27677D4DDC81653,2022-06-10 16:00:00,"Sacred Heart Hospital of Malolos, Inc.",Malolos City,Central Luzon (III),Consultation,Complete
+320035,4627B8F0D33197415A6AFB8580D87695,2022-06-10 16:00:00,"Sacred Heart Hospital of Malolos, Inc.",Malolos City,Central Luzon (III),Consultation,Complete
+320036,13065EEE24A7007A31315F98FA09EDE7,2022-06-17 16:00:00,"Sacred Heart Hospital of Malolos, Inc.",Malolos City,Central Luzon (III),Consultation,Complete
+320037,D099D28E8A24F175AF65C15F0168AF7F,2022-06-17 16:00:00,"Sacred Heart Hospital of Malolos, Inc.",Malolos City,Central Luzon (III),Consultation,Complete
+320038,F4DF4CD68F8AC2A51DC0EFD460A05A3F,2022-06-24 16:00:00,"Sacred Heart Hospital of Malolos, Inc.",Malolos City,Central Luzon (III),Consultation,Complete
+320040,4627B8F0D33197415A6AFB8580D87695,2022-07-01 16:00:00,"Sacred Heart Hospital of Malolos, Inc.",Malolos City,Central Luzon (III),Consultation,Complete
+320041,C18D2CFC90CF9E702D40A3F633B17EDF,2022-07-01 16:00:00,"Sacred Heart Hospital of Malolos, Inc.",Malolos City,Central Luzon (III),Consultation,Complete
+320043,C5313B0B18F7F3AD2A7A2A3B92745CCE,2022-07-08 16:00:00,"Sacred Heart Hospital of Malolos, Inc.",Malolos City,Central Luzon (III),Consultation,Cancel
+320044,0B106682AC403B83F8C40C9DBA5F92A2,2022-07-15 16:00:00,"Sacred Heart Hospital of Malolos, Inc.",Malolos City,Central Luzon (III),Consultation,Complete
+320045,FBBB348040227AED37791AC582B97439,2022-07-15 16:00:00,"Sacred Heart Hospital of Malolos, Inc.",Malolos City,Central Luzon (III),Consultation,Complete
+320046,73AA42D0F2FF23AD15BC690E904C9A79,2022-07-15 16:00:00,"Sacred Heart Hospital of Malolos, Inc.",Malolos City,Central Luzon (III),Consultation,Complete
+320047,C7E307511564C872C7D6B9D8237F8D5E,2022-07-15 16:00:00,"Sacred Heart Hospital of Malolos, Inc.",Malolos City,Central Luzon (III),Consultation,Complete
+320048,6C54CA06CFF926755EBB6389E4925820,2022-07-15 16:00:00,"Sacred Heart Hospital of Malolos, Inc.",Malolos City,Central Luzon (III),Consultation,Complete
